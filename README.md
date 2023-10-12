@@ -1,0 +1,2 @@
+# text-augumentation-with-chatgpt
+Source code for paper "From Big to Small Without Losing It All: Text Augmentation with ChatGPT for Efficient Sentiment Analysis" published at the 13th ICDM Workshop on Sentiment Elicitation from Natural Text for Information Retrieval and Extraction (SENTIRE) organized during the 23rd IEEE International Conference on Data Mining (ICDM 2023)
